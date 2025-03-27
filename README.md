@@ -1,3 +1,6 @@
+# CodeWars 2025 - by WnCC
+# Theme : CodeRoyale (~Clash Royales)
+
 # Team Name : SJC
 ## Johan, Chandresh, Sahil
 
